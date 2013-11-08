@@ -35,6 +35,9 @@ internal class bhcc
             body.AppendChild(ProcessFile(doc, file));
         }
 
-        doc.WriteTo(new XmlTextWriter(Console.Out));
+        var writer = new XmlTextWriter(Console.Out);
+        writer.Formatting = Formatting.Indented;
+
+        doc.WriteTo(writer);
     }
 }
