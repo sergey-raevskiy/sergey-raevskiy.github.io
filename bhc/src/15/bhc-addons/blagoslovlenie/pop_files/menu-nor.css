@@ -1,0 +1,63 @@
+/* The 90% width keeps the menubar from wrapping prematurely, 
+but overlays the upgrade button in some browsers. Still
+looking for a good fix. 
+100% stretches the bar and creates a horizontal scroll. Suckage. */
+#NavMenuList {
+    position: absolute;
+    left: 60px; top: 60px;
+    height: 40px; width: 90%;
+    margin: 0; padding: 0;
+    display: inline; white-space: nowrap;
+    clear: both;
+}
+#NavMenuList li {
+    display: inline;
+    list-style: none; white-space: nowrap;
+}
+#NavMenuList a {
+    padding: 2px 10px 1px 10px;
+    width: auto; height: 16px;
+    color: #FFF; background-color: #036;
+    font: 11px Arial, Geneva, Helvetica, sans-serif;
+    text-decoration: none;
+    float: left; display: block;
+    border-top: 1px solid #FFF;
+}
+#NavMenuList a.preextra {
+    padding: 2px 1px 1px 10px;
+    width: auto; height: 16px;
+    color: #FFF; background-color: #69C;
+    font: 11px Arial, Geneva, Helvetica, sans-serif;
+    text-decoration: none;
+    float: left;
+}
+#NavMenuList a.extra {
+    padding: 2px 10px 1px 1px;
+    width: auto; height: 16px;
+    color: #FFF; background-color: #69C;
+    font: 11px Arial, Geneva, Helvetica, sans-serif;
+    text-decoration: none;
+    float: left;
+    font-weight: bold;
+}
+#NavMenuList a:hover {
+    color: #000; background-color: #FFF;
+}
+#NavMenuList .NavSubMenuList {
+    visibility: hidden;
+    left: 0; top: 20px;
+    position: absolute; height: 20px;
+    width: 100%; display: inline; white-space: nowrap;
+    margin: 0; padding: 0; border: 0px;
+}
+#NavMenuList .NavSubMenuList li a {
+    color: #FFF;
+    background-color: #69C;
+    float: left;
+}
+#NavMenuList .NavSubMenuList li a:hover {
+    color: #000; background-color: #FFF;
+}
+#NavMenuListTitle {
+    display: none;
+}

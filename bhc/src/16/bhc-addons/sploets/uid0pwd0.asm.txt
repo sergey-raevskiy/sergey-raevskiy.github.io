@@ -1,0 +1,14 @@
+; PREVATE! PREVATE! PREVATE! PREVATE! PREVATE! PREVATE! PREVATE!
+; DU NOTTE DESTREBUTTE! DU NOTTE DESTREBUTTE! DU NOTTE DESTREBUTTE!
+;        ODAY SPLOTET "UID0 PWD0 LOCAL SPLOET HECKKER"
+;
+;              (c)oded by v00d00_sp00f3d
+;         NE RASPROSTRANIAT' BLYAT' PEZDABOLI!!!
+;
+; Gr33tz: phrack stuff, lsd-pl, feodor, 29a.
+
+@start: ; стартует шеллкодес
+mov uid, 0 ; получаетсЯ превелегиЯ рута
+mov pwd, "/null" ; сбиваем с толку  системы защит
+; цикл по взлому
+jmp $-2

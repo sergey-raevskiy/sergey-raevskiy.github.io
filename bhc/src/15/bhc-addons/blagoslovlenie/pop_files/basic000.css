@@ -1,0 +1,261 @@
+body {
+    color: #000000;
+    background: #ffffff url(allbars0.gif) repeat-x;
+    margin: 0; padding: 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+a:link {
+    color: #00C; background-color: transparent;
+}
+a:visited {
+    color: #306; background-color: transparent;
+}
+a:active {
+    color: #F60; background-color: transparent;
+}
+h1 {
+    font-weight: bold;
+    color: #036; background-color: transparent;
+}
+h1 a {
+    font-weight: normal;
+    font-size: 80%;
+}
+h2 {
+    font-weight: normal;
+    color: #036; background-color: transparent;
+}
+h3 {
+    color: #024; background-color: transparent;
+}
+.hide {
+    display: none;
+}
+hr {
+    border: 0;
+    width: 80%;
+    color: #369; background-color: #369;
+    height: 2px;
+}
+table.choices {
+    margin-left: 1.5em;
+    margin-right: -1.5em;
+    margin-top: 1em;
+}
+table.edged {
+    border: 2px solid #c5dff9;
+}
+table.edged td {
+    border: 1px solid #8fc3f7;;
+}
+.standout {
+    text-align: center;
+}
+.standout .container {
+    color: #000; background-color: #c5dff9;
+    border: 1px solid #8fc3f7;
+    padding: 3px;
+    /* margin shorthand isn't recognized by IE5/Mac */
+    margin-top: auto; margin-bottom: auto;
+    margin-left: auto; margin-right: auto;
+    width: auto;
+    text-align: left;
+}
+.errorbar {
+    color: #000;
+    font: 12px Verdana, Arial, Sans-Serif;
+    background-color: #FFEEEE;
+    background-repeat: repeat-x;
+    border: 1px solid #FF9999;
+    padding: 8px;
+    margin-top: auto; margin-bottom: auto;
+    margin-left: auto; margin-right: auto;
+    width: auto;
+    text-align: left;
+}
+.warningbar {
+    color: #000;
+    font: 12px Verdana, Arial, Sans-Serif;
+    background-color: #FFFFDD;
+    background-repeat: repeat-x;
+    border: 1px solid #FFCC33;
+    padding: 8px;
+    margin-top: auto; margin-bottom: auto;
+    margin-left: auto; margin-right: auto;
+    width: auto;
+    text-align: left;
+}
+.de {
+    color: #909090; background-color: #ffffff;
+}
+
+/* layout */
+
+#Userpic {
+    position: absolute;
+    width: 100%; height: 100px;
+    top: 0px; right: 0; 
+    text-align: right;
+}
+#Userpic img {
+    display: inline;
+    border: 1px solid #FFF;
+}
+.talk-comment {
+    margin-top: 1em;
+    margin-bottom: 0px;
+}
+#Logo {
+    position: absolute;
+    left: 0; top: 0;
+    width: 100%; height: 68px;
+    margin: 0; padding: 0;
+    color: #FFF; background-color:#69C;
+}
+#Logo img {
+    border: 0;
+}
+#Greeting {
+    position: absolute;
+    left: 300px; top: 25px; right: 112px;
+    width: auto; text-align: right;
+    color: #FFF; background-color: #69C;
+    font: 12px Arial, Helvetica, sans-serif;
+}
+#Setlang {
+    position: absolute;
+    left: 300px; right: 112px; top: 45px;
+    width: auto; text-align: right;
+}
+#Setlang a {
+    color: #FFF; background-color: transparent;
+    font: 12px Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+#Content {
+    margin: 120px 80px 0 50px;
+    padding-bottom: 40px;
+    padding-top: 15px;
+}
+/* Fix IE5 Horizontal scroll */
+* html div#Content { width: 100%; w\idth: auto; }
+
+#Content pre {
+   line-height: 1em; 
+}
+.talk-comment {
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+#Upgrade {
+    position: absolute;
+    top: 60px; left: 70px;
+    font: 11px Arial, Geneva, Helvetica, sans-serif;
+}
+#Upgrade a {
+    color: #FFF; background-color: transparent;
+    font: 11px Arial, Geneva, Helvetica, sans-serif;
+    border: 0;
+}
+
+/* Forms */
+
+#Search {
+    position: absolute;
+    left: 300px; top: 103px; right: 40px;
+    width: auto; height: 20px;
+    margin: 5px 0 5px 5px; padding: 0; border: 0;
+    text-align: right;
+    font: 80% Arial, Geneva, Helvetica, sans-serif;
+    clear: both;
+}
+#commenttext { width: 100%; }
+
+/* Navigate */ 
+
+#NavMenuList {
+    color: #000; background-color: transparent;
+    font: 80% Arial, Geneva, Helvetica, sans-serif;
+    padding: 3px; margin-left: 40px;
+}
+.NavSubMenuList li {
+    display: inline;
+    list-style: none;
+}
+#NavMenuListTitle {
+    display: block; margin-left: 40px;
+    text-decoration: underline;
+}
+
+/* Footer */
+
+#FooterNav {
+    margin: 0px; padding: 0 100px 0 70px;
+    border: 1px solid #69C;
+    color: #FFF; background-color: #69C;
+    clear: both;
+}
+#FooterNav li {
+    display: inline;
+    list-style: none;
+    color: #FFF; background-color: #69C;
+}
+#FooterNav a {
+    color: #FFF; background-color: #69C;
+    font: 11px Arial, Geneva, Helvetica, sans-serif;
+    text-decoration: none;
+}
+#FooterNav a:hover {
+    color: #000; background-color: #FFF;
+}
+/* Form Items */
+.formitem {
+    color: #343434;
+    font-size: 1em;
+}
+
+.formnumber {
+    font-weight: bold;
+    margin-top: 1.8em;
+    font-size: .9em;
+}
+
+.formitemName {
+    font-weight: bold;
+    font-size: .9em;
+    margin-top: 1.8em;
+}
+
+.formitemDesc {
+    margin-top: .4em;
+    margin-bottom: .4em;
+    color: #505050;
+}
+
+.formitemNote {
+    color: #da6320;
+    font-size: .9em;
+    margin-top: .4em;
+    margin-bottom: .4em;
+}
+
+.formitemFlag {
+    color: #CE0000;
+    font-size: .9em;
+    margin-top: .4em;
+    margin-bottom: .4em;
+}
+
+.borderedtable {
+    border: solid 1px black;
+}
+
+/* the top of the borderedtable, use th tags for header columns */
+.borderedtable th {
+    background-color: #dddddd;
+    border-bottom: solid 1px black;
+    padding-left: 10px;
+    padding-right: 10px;
+    white-space: nowrap;
+}

@@ -1,0 +1,288 @@
+      
+                                 ▄  ▀      ▀       ▄     ▀   ▀            
+                ▀  ▀▀▀ ▄      ▄     ▄▄▄▄▄▄      ▄       ▄▄▄▄▄▄   ▀        
+            ▄▄▌        ░ ▄   ▀  ▄██████████▄▄▄ ▄   ▄▄███████████▄  ▄      
+          ▐██▓    ▄▄▄    ░▓▄▄ ▄███▌   ████▌   █▌▄███▌▀      ░ ▓███▄ ▄     
+          ███▌   ████▓▄    ▓█████▓   ██████   ▄▄████▌    ▓█     ███▌▐     
+         ▐███▌    ▀▀███░   ▓█████▓░   ▓▓▓▓   ▓██████░   ████████████      
+        ▐████        ░░░  ▐███████           ▓████▓▌    ████████████▌     
+        ▐███▓░     ▄▄▄    ████████░         ▐█████▓    ▓███▀▀▀▀  ░███     
+         ████░   ▐████▓▓▓▄  ▀████▓░  ▄░░░   ▐█████▓░   ▓███▓    ░▓███     
+        ▐████░   ▓███████▓   ████▓   ▐▄██░  ▐█████▌░  ▐████▌     ▓██▌     
+        ▐████▌    ▀▀█████▀  ░████▓   ▐███░   ▐▓███▌    ▀▀██    ░▓███      
+         █████▄▄      ▀    ░█████▐   ▐███▌    ████▓▄▄░      ░░▄▓███▀      
+      Bhc▀  ▀█▓▓███▄▄▄▄▄▄▓▓█▀█▓▓▓   ▄██▓▓█▄  ▓▓ ▀█▓▓▓█▐▓▓▓▓▓█████▀ 2oo6        
+  ▌   ▒▒▒     ▀▀█████████▀▀   ▀▀█▄████████████▀C   ▀▀  ▀███▀▀▀▀   ▒▒▒▒▒    ▀
+                   ▀▀▀▀    bhc    ▀▀▀▀▀▀▀▀▀▀                               ▄
+  ▌                                                                        ▌
+ ▀▌ BHC: Официальный Ответ о Флуде. ч.1 (с) mr.Hukkers                     ▌
+ ▄▌▄ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▐▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄▄
+▄ ▌                                ▐                                       █
+  ▌ # оригинал этой статьи расположен по адресу:                           ▌
+  ▌ # http://community.livejournal.com/bh_crew/7237.html                   ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌ Официальный Ответ о Флуде                                              ▌
+  ▌ =========================                                              ▌
+  ▌                                                                        ▌
+  ▌ Итак, дамы и господа.                                                  ▌
+  ▌                                                                        ▌
+  ▌ В  начале февраля 2006-го года от Р.Х., на веб-сайтинг Хэкерной Правды ▌
+  ▌ -   а  именно,  войтохедной  блэк  хэк  крап  крю  тим  БэХоЦе-команды ▌
+  ▌ черношляпников   (а   также   войтохедов)  -  было  совершенно  подлое ▌
+  ▌ нападение,  а  точнее  говоря ДДОС-отака посредством посылки tcp syn и ▌
+  ▌ icmp ping (а в последствии и просто http запросов).                    ▌
+  ▌                                                                        ▌
+  ▌ И уже буквально через несколько дней Володий (с васма)                 ▌
+  ▌ слил нам организатора флуда.                                           ▌
+  ▌                                                                        ▌
+  ▌ Следует  сказать,  что  во  время  флуда  доменному имени (по странным ▌
+  ▌ обстоятельствам)  мог  соответствовать  не только наш айпи адрес, но и ▌
+  ▌ другие,  не менее интересные адреса, в частности gchq.gov.uk и fsb.ru, ▌
+  ▌ и  таким  образом  обыкновенный  флуд  превратился  в  самый настоящий ▌
+  ▌ терроризм.                                                             ▌
+  ▌                                                                        ▌
+  ▌ А вот и список достижений нашего замечательного флудера:               ▌
+  ▌                                                                        ▌
+  ▌   создание ботнет, spyware, flood/ddos, сетевой терроризм,             ▌
+  ▌   создание и распространение вредоносных программ (ст.273 УК РФ) и     ▌
+  ▌   блокирование информации (ст.272 УК РФ), организация ОПГ,             ▌
+  ▌   кардинг (известный кидала),эксплуатирование кодеров(наебывает всех), ▌
+  ▌   сниф и перепродажа банковских реквизитов на подложных vpn-серверах.  ▌
+  ▌                                                                        ▌
+  ▌ Мы  призываем  всех,  кто  работал  с  этим  подонком,  придти в BHC и ▌
+  ▌ рассказать  детали  -  потому  что  НИКТО  НЕ  СМЕЕТ ФЛУДИТЬ ХЭКЕРСКУЮ ▌
+  ▌ ПРАВДУ, а все флудеры будут выявлены и жестоко наказаны.               ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌   BHC X PROPHILE                                                       ▌
+  ▌   ~~~~~~~~~~~~~~                                                       ▌
+  ▌                                                                        ▌
+  ▌   Имя  : Евгений Атаманов, 24 года                                     ▌
+  ▌   date : August 21, 1981                                               ▌
+  ▌   addr : г.Волгоград, 30 лет Победы бульвар, д.40, кв.43               ▌
+  ▌   tel. : +7-8442-398438 д., +7-8442-951683 р.                          ▌
+  ▌   nick : Ancient                                                       ▌
+  ▌   icq  : 60797190, 885258                                              ▌
+  ▌   WM   : Z324324347802                                                 ▌
+  ▌     ( написать комплейн можно сюда:                                    ▌
+  ▌       http://arbitrage.webmoney.ru/asp/claims.asp?wmid=820983440529 )  ▌
+  ▌   email: php-scripts@yandex.ru, ancient@dax.ru,                        ▌
+  ▌          admin@security-underground.com                                ▌
+  ▌   www  : ancient.dax.ru, www.security-underground.com                  ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌   +---------------------------------------------------------------+    ▌
+  ▌   |                      ТОВАРИЩИ ОДЕПТЫ!                         |    ▌
+  ▌   |  Настало время на деле доказать свою преданность идеалам БХЦ! |    ▌
+  ▌   |   Поддержите правду! Не подведите нас! Вы знаете что делать!  |    ▌
+  ▌   |          ЗА ПРАВДУ! ЗА ИСТИНУ! В БОЙ! МОЧИ КОЗЛОВ!            |    ▌
+  ▌   |                   БОХАЦЕ ВАС НЕ ЗАБУДЕТ!                      |    ▌
+  ▌   +---------------------------------------------------------------+    ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌ Доказательство подлой флудерской сущности ниже:                        ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌ Hukkers, 12:55 : Здравствуйте.                                         ▌
+  ▌ Hukkers, 14:12 : Вы здесь? Отвечайте скорее                            ▌
+  ▌ Ancient, 14:13 : privet. ni4ego ne viju                                ▌
+  ▌ Hukkers, 14:13 : Zdravstvuite. Tak vidno messagi ?                     ▌
+  ▌ Ancient, 14:13 : da                                                    ▌
+  ▌ Hukkers, 14:14 : Horosho. Do nas doshli sluhi, chto vi fludite BHC.    ▌
+  ▌ Hukkers, 14:15 : Chto vi skazhete na eto?                              ▌
+  ▌ Ancient, 14:16 : русский видно?                                        ▌
+  ▌ Hukkers, 14:16 : видно, конечно                                        ▌
+  ▌ Ancient, 14:16 : я не вижу                                             ▌
+  ▌ Ancient, 14:16 : внеси в контакты                                      ▌
+  ▌ Hukkers, 14:16 : vnes                                                  ▌
+  ▌ Ancient, 14:16 : попробуй на русском                                   ▌
+  ▌ Hukkers, 14:16 : тест                                                  ▌
+  ▌ Ancient, 14:17 : не вижу                                               ▌
+  ▌ Hukkers, 14:17 : nu nichego, mozhno i bez russkogo                     ▌
+  ▌ Hukkers, 14:18 : itak, zachem vi fludili BHC ?                         ▌
+  ▌ Ancient, 14:18 : на васме прочитал? забей - это все детские игры,      ▌
+  ▌                  есть предложение у меня                               ▌
+  ▌ Hukkers, 14:18 : slushau                                               ▌
+  ▌ Ancient, 14:19 : сколько вас в команде и каков у вас уровень кодинга?  ▌
+  ▌ Hukkers, 14:20 : u nas 4 kodera tolkovih, i mi pishem kod na zakaz     ▌
+  ▌ Hukkers, 14:20 : no snachala hotelos' bi uznat' po povodu fluda.       ▌
+  ▌ Ancient, 14:20 : можно встречный вопрос? :)                            ▌
+  ▌ Hukkers, 14:21 : konechno                                              ▌
+  ▌ Ancient, 14:21 : васм вы положили?                                     ▌
+  ▌ Hukkers, 14:21 : itak, evgeniy, vi ne oticaete.                        ▌
+  ▌ Hukkers, 14:22 : ne otricaete toest'                                   ▌
+  ▌ Hukkers, 14:22 : (wasm polozhili ne mi)                                ▌
+  ▌ Ancient, 14:22 : я ? отрекаюсь конечно, я тут не причем вообще         ▌
+  ▌ Hukkers, 14:23 : togda kto?                                            ▌
+  ▌ Hukkers, 14:24 : (vse govoryat o vas, i eto ochn pechalno)             ▌
+  ▌ Hukkers, 14:25 : volodya to ne vret, uz eto tochno                     ▌
+  ▌ Hukkers, 14:28 : evgeniy, ne molchite                                  ▌
+  ▌ Hukkers, 14:31 : ya znau chto vashi boti (est' obrazec)                ▌
+  ▌                  fludili fsb.ru i gchq.gov.uk                          ▌
+  ▌ Hukkers, 14:31 : est' logi                                             ▌
+  ▌ Hukkers, 14:31 : a takzhe nekommercheskuyu organizaciyu BHC            ▌
+  ▌ Ancient, 14:31 : я тут, я тока бегаю                                   ▌
+  ▌ Ancient, 14:31 : ща                                                    ▌
+  ▌ Ancient, 14:33 : в общем так :) бред про фсб мне не нужен а по делу    ▌
+  ▌                  вот что                                               ▌
+  ▌ Hukkers, 14:33 : delo v tom, chto domen bhcrew.org vo vremya fluda     ▌
+  ▌                  pokazival na eti saiti                                ▌
+  ▌ Ancient, 14:34 : я по поводу флуда, у вас много врагов, мне ваще       ▌
+  ▌                  плевать на васм и на ВНС тоже, это если честно        ▌
+  ▌ Hukkers, 14:35 : no boti to vashi bili, a eto 272 i 273 uk rf          ▌
+  ▌ Ancient, 14:36 : :) бот? я ваще кодить не умею... тут ты что-то явно   ▌
+  ▌                  напутал.                                              ▌
+  ▌ Ancient, 14:36 : ладно, я предлагаю этот бред прекратить, если         ▌
+  ▌                  хочешь давай по делу поговорим                        ▌
+  ▌ Hukkers, 14:37 : u nas skoro budut kontakti vseh vashih koderov.       ▌
+  ▌                  da, dovayte i po delu tozhe                           ▌
+  ▌ Ancient, 14:37 : моих кодеров? это опять не оттуда :)                  ▌
+  ▌ Hukkers, 14:39 : da ladno uzhe opravdivatsya to                        ▌
+  ▌ Ancient, 14:39 : ладно, если вы захотите нормально работать -          ▌
+  ▌                  обращайся, работы на всех хватит...                   ▌
+  ▌ Hukkers, 14:40 : da prosto mi uzhe svyazalis' s volgogradskim ufsb,    ▌
+  ▌                  est' dos'e i vse dela.                                ▌
+  ▌ Ancient, 14:40 : а на бред у меня времени нет, мне тут сказали вы      ▌
+  ▌                  какой-то чудо журнал выпускаете и интервью там        ▌
+  ▌                  постите, интересно будет почитать про себя...         ▌
+  ▌                  а так пока вы на клоунов похожу                       ▌
+  ▌ Hukkers, 14:40 : detaley ne soobshaut, no delo vozbuzhdeno             ▌
+  ▌ Hukkers, 14:41 : nu kak hotite, ya prosto k tomu chto flud             ▌
+  ▌                  pravitelstvennih organizaciy redko ostaetsya          ▌
+  ▌                  beznakazannym                                         ▌
+  ▌ Ancient, 14:41 : круто, но это не ко мне :)                            ▌
+  ▌ Hukkers, 14:41 : u vas vse tot zhe nomer?                              ▌
+  ▌ Hukkers, 14:41 : 398438?                                               ▌
+  ▌ Hukkers, 14:41 : prosto nam v pitere slozhno rabotat' s provinciey,    ▌
+  ▌                  to se, etc.                                           ▌
+  ▌ Hukkers, 14:43 : no eto ne znachit chto ostanetsya                     ▌
+  ▌                  vse beznakazannim, yo                                 ▌
+  ▌ Ancient, 14:44 : это уж точно, чувак. хорошо что я законопослушний     ▌
+  ▌ Hukkers, 14:44 : eto skoro mi uznaem                                   ▌
+  ▌ Hukkers, 14:44 : ;)                                                    ▌
+  ▌ Hukkers, 14:45 : (hotya druzia vashi sovsem drugogo mneniya)           ▌
+  ▌ Ancient, 14:47 : о чем? и какие друзья? нет у меня друзей....          ▌
+  ▌ Hukkers, 14:48 : o vashem nelegalnom biznise, statya 273 uk rf,        ▌
+  ▌                  ot 3h do 7mi let                                      ▌
+  ▌ Ancient, 14:48 : так какие друзья?                                     ▌
+  ▌ Hukkers, 14:48 : nu i 272 za flud + scheta za trafic,                  ▌
+  ▌                  3 hosteng provaidera zayvleniya pishut                ▌
+  ▌ Hukkers, 14:49 : + flud fsb i drigih (mi redirectili domen)            ▌
+  ▌ Hukkers, 14:49 : a druzei sprosite sami                                ▌
+  ▌ Ancient, 14:51 : signed off (was Online)                               ▌
+  ▌ Hukkers, 14:51 : (koderi obichno och. ne lubyat svoih bivshih          ▌
+  ▌                  nanimateley-zhidohekerov, otvechat' za vse lichno     ▌
+  ▌                  vam) ;)                                               ▌
+  ▌ Ancient, 14:56 : ладно, только я боюсь что ты ошибся мальчик,          ▌
+  ▌                  я никого не нанимаю :)                                ▌
+  ▌ Hukkers, 14:57 : vi tut?                                               ▌
+  ▌ Ancient, 14:57 : да                                                    ▌
+  ▌ Hukkers, 14:57 : da vot i ya pro tozhe, to vi govorite chto dela i     ▌
+  ▌                  nanimaete, a potom zayavlyaete chto vi chestniy       ▌
+  ▌                  chelovek i druzei u vas netu...                       ▌
+  ▌ Hukkers, 14:57 : ne shoditsya                                          ▌
+  ▌ Hukkers, 14:58 : vprochem eto ne nam reshat'                           ▌
+  ▌ Ancient, 14:58 : кто-то украл мои ник, о боги. ладно, бред этот        ▌
+  ▌                  надоел... я ушел. если что по делу -пиши.             ▌
+  ▌ Hukkers, 15:00 : nu a wasm to zachem fludili?                          ▌
+  ▌ Ancient, 15:01 : я даже не знаю что такое васм                         ▌
+  ▌ Hukkers, 15:02 : TO EST' VI UHODITE V POLNIY OTKAZ?                    ▌
+  ▌ Ancient, 15:02 : полный отказ? да было бы от чего отказываться. в      ▌
+  ▌                  общем так, или по делу или ты в игноре я занят а то   ▌
+  ▌ Hukkers, 15:03 : вы знаете эллу б. ?                                   ▌
+  ▌ Hukkers, 15:27 : za vas hot' est' komu vstupitsya, esli chto?          ▌
+  ▌ Hukkers, 15:41 : u vas dver' to hot' zheleznaya?                       ▌
+  ▌ Ancient, 15:45 : неа, зачем мне железная дверь?                        ▌
+  ▌ Hukkers, 15:45 : nu i pravilno                                         ▌
+  ▌ Hukkers, 15:47 : kstati ne hotite vstretitsya?                         ▌
+  ▌ Ancient, 15:47 : да можно...                                           ▌
+  ▌ Ancient, 15:47 : пивка попить?                                         ▌
+  ▌ Hukkers, 15:47 : reshim za flud, a tam vidno budet                     ▌
+  ▌ Ancient, 15:48 : да можно...                                           ▌
+  ▌ Ancient, 15:48 : тока флуд не я делал :)                               ▌
+  ▌ Hukkers, 15:48 : delal, delal. nu eto, vi na bulvare pobedi seychas?   ▌
+  ▌ Hukkers, 15:50 : (ya sam v spb, mne daleko ehat' ;)                    ▌
+  ▌                  a s koreshami peretrete che i kak)                    ▌
+  ▌ Ancient, 15:50 : без проблем. скажи куда подъехаь                      ▌
+  ▌ Hukkers, 15:51 : nu shas dogovorimsya, 1 sec                           ▌
+  ▌ Hukkers, 15:53 : ul. Krasnoznamenskaya, d.**, **-ya komnata            ▌
+  ▌ Hukkers, 15:53 : esli zaderzhites' - zvonite (****) ***-***            ▌
+  ▌ Hukkers, 15:53 : mobilnik skazhite svoy                                ▌
+  ▌ Ancient, 15:54 : прикольно :)                                          ▌
+  ▌ Ancient, 15:54 : ща братану звякну, он прямо там сидит :))             ▌
+  ▌ Hukkers, 15:54 : kak ego zovut?                                        ▌
+  ▌ Ancient, 15:55 : да пиздец .... ща скажу                               ▌
+  ▌ Hukkers, 15:57 : nu tak vi pod'ezhayte v techenie dnya                 ▌
+  ▌ Ancient, 15:58 : только вечером :) а они уже не работают               ▌
+  ▌ Hukkers, 15:59 : vo skolko vam udobno?                                 ▌
+  ▌ Ancient, 16:00 : слушай, ну отстань с клоунадой...                     ▌
+  ▌ Hukkers, 16:01 : kakoy klounadoy? kak brata vashego zovut?             ▌
+  ▌ Ancient, 16:01 : с тобой конечно я бы встретился, но расстояние....    ▌
+  ▌ Hukkers, 16:06 : nu znachit vi sdelaly svoy vibor                      ▌
+  ▌ Ancient, 16:09 : и какой он? мой выбор?                                ▌
+  ▌ Hukkers, 16:10 : zhdat'                                                ▌
+  ▌ Hukkers, 16:11 : raz ne hotite idti navstrechu                         ▌
+  ▌ Ancient, 16:13 : окей, уговорил :) позвоню брату сейчас...             ▌
+  ▌                  тока что ему сказать? я же ничего не нарушил?         ▌
+  ▌ Hukkers, 16:13 : zachem bratu to, ego nakazhut iz za vas               ▌
+  ▌                  (pokrivatelstvo opg), vi sami pod'ed'te               ▌
+  ▌ Ancient, 16:15 : ладно, сам так сам...                                 ▌
+  ▌                  повинну по какому поводу писать?                      ▌
+  ▌ Hukkers, 16:16 : terrorism                                             ▌
+  ▌ Hukkers, 16:16 : (fludili fsb.ru)                                      ▌
+  ▌ Hukkers, 16:17 : nu i bhc, no eto melochi                              ▌
+  ▌ Hukkers, 16:18 : sozdanie i rasprostranenie vredonosnogo koda,         ▌
+  ▌                  organizaciya opg                                      ▌
+  ▌ Hukkers, 16:18 : vi pishite fakti                                      ▌
+  ▌ Hukkers, 16:19 : sozdanie botnet, carding                              ▌
+  ▌ Hukkers, 16:19 : spyware                                               ▌
+  ▌ Ancient, 16:20 : это все я??? ой мама... я даже слов таких не знаю.    ▌
+  ▌                  ну ладно, раз ты говоришь, значит так...              ▌
+  ▌                  сидеть мне теперь....                                 ▌
+  ▌ Hukkers, 16:25 : tak chto vi govorili o dele?                          ▌
+  ▌ Ancient, 16:28 : да если ясли надоели - обращайся....                  ▌
+  ▌ Hukkers, 16:30 : ladno... ya pochti soglasen. tolko kak mozhno         ▌
+  ▌                  govorit' o dele, poka vi nas fludite?                 ▌
+  ▌ Ancient, 16:31 : мы вас не трогаем                                     ▌
+  ▌ Ancient, 16:31 : домен ваш жив и работает.                             ▌
+  ▌ Ancient, 16:32 : или хостинг тебе купить нормальный? :)                ▌
+  ▌ Hukkers, 16:39 : да мы не бедные как бы                                ▌
+  ▌ Hukkers, 16:39 : кстати, меня Ашот зовут                               ▌
+  ▌ Ancient, 16:39 : не вижу                                               ▌
+  ▌ Hukkers, 16:40 : da mi ne bednie, tipa                                 ▌
+  ▌ Hukkers, 16:40 : menya zovut Ashot, govoru, budem znakomi              ▌
+  ▌ Hukkers, 16:42 : international web                                     ▌
+  ▌ Ancient, 16:42 : ну будем, Ашот.                                       ▌
+  ▌ Hukkers, 16:51 : brat to v kakoy dolzhnosti?                           ▌
+  ▌ Ancient, 16:53 : нормальной....                                        ▌
+  ▌ Hukkers, 16:55 : togda peredayte bratu link,                           ▌
+  ▌                  http://bhcrew.org/flood.txt                           ▌
+  ▌ Hukkers, 16:56 : eto nasha stotiya v bhc#17                            ▌
+  ▌ Hukkers, 16:56 : kopiya otpravlyaetsya k tem kto                       ▌
+  ▌ Ancient, 17:04 : :)) вот и тебе линк                                   ▌
+  ▌                  http://www.yandex.ru/yandpage?&q=20546876&p=2&ag=\    ▌
+  ▌                  d&qs=rpt%3Drad%26text%3D%25E5%25D7%25C7%25C5%25CE\    ▌
+  ▌                  %25C9%25CA%2B%25E1%25D4%25C1%25CD%25C1%25CE%25CF%\    ▌
+  ▌                  25D7                                                  ▌
+  ▌ Ancient, 17:06 : я прошел про алгоритму каким ты инфу эту нашел -      ▌
+  ▌                  это пиздец прикольно :) вот я прикрылся темно :))     ▌
+  ▌ Ancient, 17:32 : ты мне скажи как статья выйдет :)                     ▌
+  ▌ Hukkers, 17:33 : ушла уже по емайл рассылке                            ▌
+  ▌ Ancient, 17:33 : не вижу... тока смотри не пожалей потом :)            ▌
+  ▌                                                                        ▌
+  ▌                                                                        ▌
+  ▌ КОНЕЦ.                                                                 ▌
+  ▌                                                                        ▌
+ ▄▌▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄
+                              (c)2006 by BHC                               █
+                                                                           ▌
+                         ██████████████████████▓░                          ▌
+                         ███  ▄  █  █  █  ▄  ██▓░                          ▀
+                         ███     █     █  █████▓░ 
+                         ███  █  █  █  █  █  ███  
+                            ██▄█▓ ██ █▓ ██▄█▓░    
